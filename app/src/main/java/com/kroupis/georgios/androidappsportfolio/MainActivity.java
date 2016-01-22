@@ -1,3 +1,7 @@
+/*
+* Author: Georgios Kroupis
+* */
+
 package com.kroupis.georgios.androidappsportfolio;
 
 import android.app.Activity;
@@ -15,9 +19,8 @@ import android.widget.Button;
 import android.widget.Toast;
 
 /*
-    I decided to implement the listener on my class as a design, in order to achieve code readability.
- */
-
+* I decided to implement the listener on my class as a design, in order to achieve code readability.
+* */
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
 
     @Override
